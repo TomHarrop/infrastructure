@@ -1,5 +1,4 @@
 <tables>
-    <!-- Dorado test  -->
     <table name="dorado_models" comment_char="#" allow_duplicate_entries="False">
         <columns>value, container_hash, name, path</columns>
         <file path="/mnt/tools/tool-data/dorado_models.loc" />
